@@ -29,7 +29,7 @@ const events = [
   {
     name: 'Exchange of Rings & Garlands',
     date: 'Friday, 5 February 2027',
-    time: '7:45 PM',
+    time: '7:20 PM',
     venue: 'Dewan G. Manogaran, SJKT Cantuman Chaah',
     note: 'The defining moment as Charles Arvind & Lavania exchange their engagement rings and floral garlands, sealing a sacred promise of forever.',
     icon: '💍'
@@ -37,7 +37,7 @@ const events = [
   {
     name: 'Celebratory Feast & Blessings',
     date: 'Friday, 5 February 2027',
-    time: '8:15 PM onwards',
+    time: '8:00 PM onwards',
     venue: 'Dewan G. Manogaran, SJKT Cantuman Chaah',
     note: 'Join us for a sumptuous dinner, photo memories with the newly engaged couple, and an evening filled with joyous laughter and blessings.',
     icon: '✨'
@@ -227,10 +227,10 @@ function App(){
    <Reveal className="story-inner">
     <FlowerLotus size={34} weight="thin"/>
     <p className="script">A Sacred Promise</p>
-    <h2>Two Paths, One Forever</h2>
+    <h2>Two Hearts, One Beautiful Beginning</h2>
     <p>
-     With the divine blessings of the Almighty and our parents, we, Charles Arvind and Lavania, joyfully unite to formalize our bond of love and companionship.
-     Surrounded by the warmth of family, tradition, and sacred prayers, we step forward onto this cherished journey together.
+     With the blessings of the Almighty and our beloved parents,<br/>
+     We joyfully invite you to celebrate the beginning of our forever as we exchange rings and mark our Engagement.
     </p>
     <div className="signature">Charles Arvind <i>&</i> Lavania</div>
    </Reveal>
@@ -273,7 +273,7 @@ function App(){
     <p className="script">Nichayathartham · நிச்சயதார்த்தம்</p>
     <h2>Sealed with Love & Tradition</h2>
     <p>
-     The ceremonial thamboolam plate, the sparkle of diamond rings, the auspicious glow of the kuthu vilakku, and the sacred blessings of our elders marking the formal promise of our marriage.
+     The ceremonial thamboolam plate, the engagement rings, the auspicious glow of the kuthu vilakku, and the sacred blessings of our elders marking the formal promise of our marriage.
     </p>
     <span>Scroll below for the engagement ceremony program</span>
    </Reveal>
